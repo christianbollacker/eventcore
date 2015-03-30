@@ -66,10 +66,17 @@ header {
 }
 
 main {
-    margin: 5.5rem auto;
+    
+    width: 100%;
+
+}
+
+.tab-selection {
     width: 90%;
     max-width: 1080px;
-    padding-top: 1.5rem;
+    margin: 7.15rem auto 0;
+    box-sizing: border-box;
+    border-
 }
 
 /*  SECTIONS  */
@@ -136,9 +143,10 @@ main {
 }
 
 .show-board {
-    max-width: 1079px;
+    width: 90%;
+    max-width: 1079.5px;
     color: #152329;
-    margin-top: -2px;
+    margin: -2px auto 4rem;
     padding-top: 0;
     box-sizing: border-box;
     border: 2px solid #829197;
